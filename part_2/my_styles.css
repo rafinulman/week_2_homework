@@ -5,3 +5,36 @@
   /* Make the invisible visible */
   border: thin red solid;
 }
+
+h1{
+	height:200px;
+	background-color:lightgrey;
+}
+
+a{
+	background-color: blue;
+	color:white;
+	border-radius: 40%;
+	width: 130px;
+	height: 25px;
+	float:left;
+	text-align: center;
+}
+.oneline{
+	clear:both;
+}
+.twosec{
+	float:left;
+	width:66%	
+}
+.sec{
+	float:left;
+	width:33%;
+}
+.quarter{
+	float:left;
+	width:25%;
+}
+img{
+	width:100%;
+}
